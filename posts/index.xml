@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://mateopc.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 08:37:24 +0200</lastBuildDate><atom:link href="https://mateopc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://mateopc.github.io/posts/mypost/</link>
+      <pubDate>Tue, 21 Jun 2022 08:37:24 +0200</pubDate>
+      
+      <guid>https://mateopc.github.io/posts/mypost/</guid>
+      <description>Some content
+int main(int argc, char** argv, char** envp){ return 0; } </description>
+    </item>
+    
+  </channel>
+</rss>
